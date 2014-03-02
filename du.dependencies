@@ -1,15 +1,15 @@
 [
   {
     "remote":       "du",
-    "repository":   "android_hardware_qcom_display",
+    "repository":   "v500_hardware_qcom_display",
     "target_path":  "hardware/qcom/display",
-    "revision":     "du-v500"
+    "revision":     "du44"
   },
   {
     "remote":       "du",
-    "repository":   "android_hardware_qcom_media",
+    "repository":   "v500_hardware_qcom_media",
     "target_path":  "hardware/qcom/media",
-    "revision":     "du-v500"
+    "revision":     "du44"
   },
   {
     "remote":       "du",
