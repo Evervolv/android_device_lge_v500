@@ -2,13 +2,13 @@
   {
     "remote":       "du",
     "repository":   "v500_hardware_qcom_display",
-    "target_path":  "hardware/qcom/display",
+    "target_path":  "hardware/qcom/display-v500",
     "revision":     "du44"
   },
   {
     "remote":       "du",
     "repository":   "v500_hardware_qcom_media",
-    "target_path":  "hardware/qcom/media",
+    "target_path":  "hardware/qcom/media-v500",
     "revision":     "du44"
   },
   {
