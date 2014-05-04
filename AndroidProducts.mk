@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/v500.mk \
-    $(LOCAL_DIR)/du.mk
+    $(LOCAL_DIR)/ev.mk
